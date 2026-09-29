@@ -24,6 +24,30 @@ The system is built with React and uses a local-first architecture, allowing it 
 
 ---
 
+## Product Showcase
+
+### TurnoverFlow
+
+![TurnoverFlow Cover](01-turnoverflow-cover.png)
+
+### Operations Dashboard
+
+![Operations Dashboard](02-operations-dashboard.png)
+
+### Turnover Calendar
+
+![Turnover Calendar](03-turnover-calendar.png)
+
+### Turnover Management
+
+![Turnover Management](04-turnover-management.png)
+
+### What's Included
+
+![What's Included](10-whats-included.png)
+
+---
+
 ## Key Features
 
 - Operations dashboard
